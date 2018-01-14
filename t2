@@ -1,17 +1,16 @@
 function test (int a,int b)
 {
-int a=0,
-b=0
+int a=100,
+int b=200;
 c=a+b;
 return c;
-
+}
 Func Test1 (zero)
+{
+int x=100;
+int y=999;
+int z=888;
+w=x*y*z;
+return w;
 
-(
-int x =1;
-int y =4;
 }
-
-
-}
-
